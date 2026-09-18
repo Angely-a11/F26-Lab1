@@ -13,6 +13,10 @@ print(type(message))
 print(newsrting)
 x=10
 print(type(x))
+""" This is a multiline comment"""
+x="hello"
+print(type(x))
+#I observed that type of x change from int to str due to python dynamic typing.
 
 
 
